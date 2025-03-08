@@ -1,4 +1,4 @@
-# apnacollege-demo
+# anucollege-demo
 This is my first repository.
 <br>
-Author - shradha (Apna College)
+Author - santhosh babu (ANU College)
